@@ -1,2 +1,2 @@
 # StokOtomasyonu
-C# ile stok otomasyonu
+C# ile stok otomasyonu yaptım
